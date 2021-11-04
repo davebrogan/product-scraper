@@ -1,0 +1,23 @@
+{
+  "name": "scraper2",
+  "version": "1.0.0",
+  "description": "Amazon product data scraper building exercise from Smashing Magazine. href='https://www.smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "browserify": "^17.0.0",
+    "cheerio": "^1.0.0-rc.10",
+    "require": "^0.4.4",
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
